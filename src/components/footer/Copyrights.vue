@@ -23,8 +23,9 @@ SOFTWARE.
 -->
 
 <template>
-    <a :style="{color: color, 'font-size': size + 'em'}" href="https://github.com/manerfan/vuesume/blob/master/LICENSE" target="_blank">
-        ©2020 林舍|Maner·Fan All rights reserved
+    <a :style="{color: color, 'font-size': size + 'em'}" href="https://github.com/xianglong123" target="_blank">
+        ©2021 123|Long.xiang All rights reserved
+        <p><a href="https://beian.miit.gov.cn">京ICP备2021036660号-1</a></p>
     </a>
 </template>
 

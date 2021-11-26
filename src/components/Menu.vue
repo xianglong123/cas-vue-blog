@@ -7,7 +7,7 @@
             <span class="avatar ant-avatar ant-avatar-circle ant-avatar-image">
                 <img draggable="false" src="../assets/avatar.jpg">
             </span>
-            <span>{{banner.name|| '林中小舍'}}</span>
+            <span>{{banner.name|| '123'}}</span>
         </div>
         <!-- 菜单 -->
         <a-layout-content class="menu">

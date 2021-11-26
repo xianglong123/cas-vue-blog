@@ -3,10 +3,10 @@
 <template>
     <div class="banner" id="banner">
         <!-- 加载层 -->
-        <div class="bg back"><h1>林小二奋笔疾书...</h1></div>
+        <div class="bg back"><h1>123键盘冒烟了...</h1></div>
         <!-- 脚贴 -->
         <div class="fork-me">
-            <a class="fork-me-link" href="https://github.com/manerfan/vuesume/wiki" target="_blank">
+            <a class="fork-me-link" href="https://github.com/xianglong123" target="_blank">
                 <span class="fork-me-text">Docs On GitHub</span>
             </a>
         </div>
@@ -18,10 +18,10 @@
                 <img draggable="false" src="../assets/avatar.jpg">
             </span>
             <div>
-                <h1>{{banner.title || '林中小舍'}}</h1>
+                <h1>{{banner.title || '123'}}</h1>
                 <h3 class="typer white">
                     鄙人，
-                    <vue-typer :text="banner.desc || '林舍'" :type-delay='200' eraseStyle='select-all'></vue-typer>
+                    <vue-typer :text="banner.desc || '123'" :type-delay='200' eraseStyle='select-all'></vue-typer>
                 </h3>
             </div>
         </div>
